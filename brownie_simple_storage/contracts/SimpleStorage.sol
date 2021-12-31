@@ -3,11 +3,11 @@
 pragma solidity >=0.6.0 <0.9.0;
 
 contract SimpleStorage {
-    // comments are created like this 
+    // comments are created like this
     /*
-    I think 
+    I think
     I can also
-    comment 
+    comment
     like this
     */
     uint256 favoriteNumber;
